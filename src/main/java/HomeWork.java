@@ -5,8 +5,8 @@ public class HomeWork {
         /*Задача 1:
         Есть числа a и b. Выяснить какое число больше и сообщить об этом*/
 
-       /* int i =  986;
-        int y =  986;
+     /*   int i =  986;
+        int y =  98;
 
         if (i > y) {
             System.out.println("i bigger then y");
@@ -15,7 +15,8 @@ public class HomeWork {
             System.out.println("y bigger then i");
         }else if (i == y) {
             System.out.println("Победила дружба т.к. i = y");
-        }*/
+        } ELSE {
+        */
         /*___________________________________________________________________________________________________________*/
 
        /* Задача 2
@@ -37,14 +38,13 @@ public class HomeWork {
         // Есть дробное число j. Вывести на экран его дробную часть и целую отдельно.
 
 
-     /*   double dDrobnoe = 15.7;
+        double dDrobnoe = 15.7;
 
 
-       long cCeloe  = (long)  dDrobnoe;
-
+        long cCeloe  = (long)  dDrobnoe;
         System.out.println( "Целая часть = "+ cCeloe);
 
-        double oOstatok = dDrobnoe - cCeloe;
+       /* double oOstatok = dDrobnoe - cCeloe;
         System.out.println( "Остаток = "+ oOstatok);*/
 
 
@@ -54,7 +54,7 @@ public class HomeWork {
         //Есть числа а и b. Если сумма чисел больше или равна 15 то одно сообщение, если меньше другое, но если их разница
         //отрицательная сообщить именно об этом
 
-       /* int a = -55;
+   /*     int a = -55;
         int b = 1;
         int c = a + b;
 
@@ -67,10 +67,24 @@ public class HomeWork {
         } else {
             System.out.println("Сообщаю, что разница отрицательная (с) Ваш кэп");
 
-        }
-*/
+        }*/
 
         /*___________________________________________________________________________________________________________*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }

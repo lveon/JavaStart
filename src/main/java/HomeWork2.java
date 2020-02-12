@@ -217,7 +217,7 @@ int n =1;
 
 
 
-/*        int salary = 2000;
+        int salary = 2000;
         double nichka = salary * 0.05;
         double deposit = nichka * 1.15;
         double goal = 0;
@@ -230,7 +230,7 @@ int n =1;
             monthQuantity++;
         }
 
-        System.out.println(monthQuantity/12 + " лет в рабстве и Жигуль твой");*/
+        System.out.println(monthQuantity/12 + " лет в рабстве и Жигуль твой");
 
 
    /*     int weight = 6;
@@ -301,7 +301,7 @@ int n =1;
         на пенсию в первый месяц, если работник начал вкладывать в свой пенсионный фонд на своё 25-тие, в год он
         получает 18% годовых к сумме которая уже лежит на счету и раз в 6 месяцев его зарплата выростала на 5%*/
 
-        int salary = 1000;
+       /* int salary = 1000;
         double pensFond = salary * 0.15;
         int year = 12;
         int pensVozrast = 65 * year;
@@ -330,7 +330,7 @@ int n =1;
         System.out.println("Получим в первом месяце на пенсии  " + pensNachislenie/doPensii);
 
 
-
+*/
     }
 
 }
